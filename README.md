@@ -15,4 +15,5 @@ RAG implementation using Llama-2, Langchain and FAISS
 6. pip install bitsandbytes
 7. pip install faiss-gpu
 8. pip install sentence-transformers
+9. pip install pypdf
 
